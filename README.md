@@ -37,14 +37,14 @@ There are four data files associated with this project:
 
 This project requires Python 3.x and the following Python libraries installed:
 
-pandas==1.3.5
-scikit-learn==1.0.2
-matplotlib==3.0.3
-numpy==1.21.6
-seaborn==0.9.0
-scipy==1.7.3
-tqdm==4.64.1
-openpyxl==3.1.2
++ pandas 1.3.5
++ scikit-learn 1.0.2
++ matplotlib 3.0.3
++ numpy 1.21.6
++ seaborn 0.9.0
++ scipy 1.7.3
++ tqdm 4.64.1
++ openpyxl 3.1.2
 
 
 To install all libraries: pip install -r requirements.txt 
