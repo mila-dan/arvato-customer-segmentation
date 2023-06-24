@@ -53,9 +53,9 @@ To install all libraries: pip install -r requirements.txt
 ## Summary of Findings
 
 
-Using unsupervised learning, I split the population into 6 clusters based on the age, social-demographic status. After that I determined in which of those clusters the customers are over represented. This clustering can help the company target more effectively.
+The key findings of the analysis are summarized in the blog post:
 
-Based on data of existing responses, I was able to test Machine Learning algorithms to predict better those who are likely to respond.
+https://medium.com/@mila.danilovskaya/understanding-your-customers-key-insights-from-arvato-financial-solutions-segmentation-analysis-b1a772ba5a6c
 
 
 ## Acknowledgments
