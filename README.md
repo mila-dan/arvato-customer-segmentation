@@ -45,7 +45,7 @@ This project requires Python 3.x and the following Python libraries installed:
 + scipy 1.7.3
 + tqdm 4.64.1
 + openpyxl 3.1.2
-
++ xgboost 1.6.2
 
 To install all libraries: pip install -r requirements.txt 
 
@@ -60,4 +60,4 @@ https://medium.com/@mila.danilovskaya/understanding-your-customers-key-insights-
 
 ## Acknowledgments
 
-This project was done as the part of Udacity learning. The data have been provided by the Arvato.
+This project was done as the part of Udacity learning. The data is provided by Arvato Financial Services, a Bertelsmann subsidiary.
