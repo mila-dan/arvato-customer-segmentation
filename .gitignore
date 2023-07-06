@@ -1,3 +1,5 @@
 .DS_Store
 data/Udacity_AZDIAS_052018.csv
 data/Udacity_CUSTOMERS_052018.csv
+data/Udacity_MAILOUT_052018_TEST.csv
+data/Udacity_MAILOUT_052018_TRAIN.csv
